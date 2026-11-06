@@ -1,29 +1,50 @@
-<h1 align="center">Hi 👋, I'm samyak jain</h1>
-<h3 align="center">someone who is in his first year.try to learn how technology work . do many new things</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritujain8638-source&label=Profile%20views&color=61b40e&style=plastic" alt="ritujain8638-source" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [food with heath](https://github.com/ritujain8638-source/New-beginning-)
-
-- 🌱 I’m currently learning **python,js and**
-
-- 📫 How to reach me **ritujain8638@gmail.com**
-
-- ⚡ Fun fact **i think i am very lazy and boring**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="assets/avatar.svg" width="170" alt="avatar" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="assets/header.svg" alt="Samyak Jain" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritujain8638-source&show_icons=true&locale=en&layout=compact" alt="ritujain8638-source" /></p>
+<p align="center">
+  <a href="mailto:ritujain8638@gmail.com"><img src="https://img.shields.io/badge/EMAIL-722f37?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ritujain8638-source"><img src="https://img.shields.io/badge/GITHUB-722f37?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=ritujain8638-source&label=profile+views&color=722f37&style=flat-square" alt="profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritujain8638-source&show_icons=true&title_color=b45c5b&text_color=916d6d&bg_color=ffffff&hide_border=true&locale=en" alt="ritujain8638-source" /></p>
+## `~/` whoami
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritujain8638-source&" alt="ritujain8638-source" /></p>
+Hi, I'm **Samyak Jain**.
 
+- First-year student exploring how technology works & building new things
+- Currently working on [food with health](https://github.com/ritujain8638-source/New-beginning-)
+- Learning **Python, JavaScript, and TypeScript**
+- Reach me at **ritujain8638@gmail.com**
 
+## `~/` toolbox
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,git,github,vscode&theme=dark" alt="toolbox" />
+
+## `~/` skill radar
+
+One I rated myself (edit `config.json`). The other counts real language bytes across my public repos and redraws itself on a schedule.
+
+<table>
+  <tr>
+    <td><img src="assets/skill-radar.svg" alt="Skill radar" /></td>
+    <td><img src="assets/language-radar.svg" alt="Language radar" /></td>
+  </tr>
+</table>
+
+## `~/` contribution calendar
+
+<img src="assets/isocal.svg" alt="3D contribution calendar" />
+
+<img src="https://raw.githubusercontent.com/ritujain8638-source/ritujain8638-source/output/github-snake.svg" alt="contribution snake" />
+
+## `~/` the numbers
+
+<img src="assets/stats.svg" alt="GitHub stats" />
+
+<p align="center"><sub>everything above regenerates itself on a schedule — nothing here is hand-updated</sub></p>

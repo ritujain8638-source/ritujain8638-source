@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="132" viewBox="0 0 800 132" role="img" aria-label="Samyak Jain"><g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#ef7a8c" stop-opacity="0"/><stop offset=".5" stop-color="#ef7a8c"/><stop offset="1" stop-color="#ef7a8c" stop-opacity="0"/></linearGradient></defs><style>
+    .in{opacity:0;animation:drop .7s cubic-bezier(.2,.9,.3,1.25) forwards;
+        transform-box:fill-box;transform-origin:center}
+    @keyframes drop{from{opacity:0;transform:translateY(-30px) scale(.5)}
+        to{opacity:1;transform:none}}
+    .wave{font-size:46px;font-weight:700;fill:#d63d58;
+        animation:wave 3.4s ease-in-out infinite;
+        transform-box:fill-box;transform-origin:center}
+    @keyframes wave{0%,55%,100%{transform:translateY(0);fill:#d63d58}
+        28%{transform:translateY(-8px);fill:#ef7a8c}}
+    .rule{stroke:#722f37;stroke-width:2;stroke-linecap:round;
+        stroke-dasharray:330;stroke-dashoffset:330;
+        animation:draw 1s ease-out 1s forwards}
+    @keyframes draw{to{stroke-dashoffset:0}}
+    .glint{opacity:0;animation:glint 2.6s linear 2.2s infinite}
+    @keyframes glint{0%{opacity:1;transform:translateX(0)}
+        100%{opacity:1;transform:translateX(260px)}}
+    .cur{animation:blink 1s steps(1) infinite;opacity:0}
+    @keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+    .tag{opacity:0;font-size:14px;fill:#9a8589;animation:fade .9s ease-out 1.5s forwards}
+    @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    @media (prefers-reduced-motion:reduce){
+        .in,.tag{animation:none;opacity:1} .wave,.glint,.cur{animation:none}
+        .rule{animation:none;stroke-dashoffset:0} .cur{opacity:1}}
+    </style><g class="in" style="animation-delay:0.25s"><text class="wave" x="250.0" y="64" text-anchor="middle" style="animation-delay:1.60s">S</text></g><g class="in" style="animation-delay:0.34s"><text class="wave" x="280.0" y="64" text-anchor="middle" style="animation-delay:1.72s">a</text></g><g class="in" style="animation-delay:0.43s"><text class="wave" x="310.0" y="64" text-anchor="middle" style="animation-delay:1.84s">m</text></g><g class="in" style="animation-delay:0.52s"><text class="wave" x="340.0" y="64" text-anchor="middle" style="animation-delay:1.96s">y</text></g><g class="in" style="animation-delay:0.61s"><text class="wave" x="370.0" y="64" text-anchor="middle" style="animation-delay:2.08s">a</text></g><g class="in" style="animation-delay:0.70s"><text class="wave" x="400.0" y="64" text-anchor="middle" style="animation-delay:2.20s">k</text></g><g class="in" style="animation-delay:0.88s"><text class="wave" x="460.0" y="64" text-anchor="middle" style="animation-delay:2.44s">J</text></g><g class="in" style="animation-delay:0.97s"><text class="wave" x="490.0" y="64" text-anchor="middle" style="animation-delay:2.56s">a</text></g><g class="in" style="animation-delay:1.06s"><text class="wave" x="520.0" y="64" text-anchor="middle" style="animation-delay:2.68s">i</text></g><g class="in" style="animation-delay:1.15s"><text class="wave" x="550.0" y="64" text-anchor="middle" style="animation-delay:2.80s">n</text></g><line class="rule" x1="235.0" x2="565.0" y1="86" y2="86"/><rect class="glint" x="235.0" y="85" width="70" height="2" rx="1" fill="url(#g)"/><rect class="cur" x="569.0" y="30" width="4" height="40" rx="1" fill="#d63d58" style="animation-delay:2.2s"/><text class="tag" x="400.0" y="116" text-anchor="middle">first-year student · exploring how tech works · building new things</text></g></svg>

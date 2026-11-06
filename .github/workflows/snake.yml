@@ -1,0 +1,27 @@
+name: snake
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 0,12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#f5c542&color_dots=#1a0d11,#5a1a28,#8c2438,#c2324b,#ef7a8c
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
