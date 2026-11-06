@@ -4,7 +4,7 @@
 <text x="24" y="34" font-size="16" font-weight="700" fill="#e9dfe1">ritujain8638-source — contributions, last year</text>
 <text x="24" y="62" font-size="26" font-weight="700" fill="#d63d58">60</text>
 <text x="94" y="62" font-size="11" fill="#9a8589">commits, PRs, issues &amp; reviews</text>
-<text x="751" y="34" text-anchor="end" font-size="11" fill="#9a8589">current streak 5d · longest 5d · busiest day 8</text>
+<text x="751" y="34" text-anchor="end" font-size="11" fill="#9a8589">current streak 6d · longest 6d · busiest day 8</text>
 <polygon points="108.9,124.0 751.4,495.0 666.6,544.0 24.0,173.0" fill="#2a1318" fill-opacity="0.55"/>
 <polygon points="377.5,338.8 387.7,344.6 387.7,353.9 377.5,348.0" fill="#310e16" fill-opacity="1"/>
 <polygon points="397.9,338.8 387.7,344.6 387.7,353.9 397.9,348.0" fill="#43131e" fill-opacity="1"/>
@@ -72,9 +72,12 @@
 <polygon points="692.8,506.8 702.9,512.6 702.9,521.9 692.8,516.0" fill="#310e16" fill-opacity="1"/>
 <polygon points="713.1,506.8 702.9,512.6 702.9,521.9 713.1,516.0" fill="#43131e" fill-opacity="1"/>
 <polygon points="702.9,500.9 713.1,506.8 702.9,512.6 692.8,506.8" fill="#5a1a28" fill-opacity="1"/>
-<polygon points="680.6,508.5 690.8,514.4 690.8,528.9 680.6,523.0" fill="#310e16" fill-opacity="1"/>
-<polygon points="701.0,508.5 690.8,514.4 690.8,528.9 701.0,523.0" fill="#43131e" fill-opacity="1"/>
-<polygon points="690.8,502.6 701.0,508.5 690.8,514.4 680.6,508.5" fill="#5a1a28" fill-opacity="1"/>
+<polygon points="680.6,513.8 690.8,519.6 690.8,528.9 680.6,523.0" fill="#310e16" fill-opacity="1"/>
+<polygon points="701.0,513.8 690.8,519.6 690.8,528.9 701.0,523.0" fill="#43131e" fill-opacity="1"/>
+<polygon points="690.8,507.9 701.0,513.8 690.8,519.6 680.6,513.8" fill="#5a1a28" fill-opacity="1"/>
+<polygon points="668.5,520.8 678.7,526.6 678.7,535.9 668.5,530.0" fill="#310e16" fill-opacity="1"/>
+<polygon points="688.9,520.8 678.7,526.6 678.7,535.9 688.9,530.0" fill="#43131e" fill-opacity="1"/>
+<polygon points="678.7,514.9 688.9,520.8 678.7,526.6 668.5,520.8" fill="#5a1a28" fill-opacity="1"/>
 <text x="24.0" y="191.0" font-size="11" fill="#9a8589">Nov</text>
 <text x="84.6" y="226.0" font-size="11" fill="#9a8589">Dec</text>
 <text x="133.1" y="254.0" font-size="11" fill="#9a8589">Jan</text>
