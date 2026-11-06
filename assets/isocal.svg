@@ -2,7 +2,7 @@
 <rect x=".5" y=".5" width="774" height="613" rx="10" fill="#0b0709" stroke="#3a1a22"/>
 <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
 <text x="24" y="34" font-size="16" font-weight="700" fill="#e9dfe1">ritujain8638-source — contributions, last year</text>
-<text x="24" y="62" font-size="26" font-weight="700" fill="#d63d58">60</text>
+<text x="24" y="62" font-size="26" font-weight="700" fill="#d63d58">61</text>
 <text x="94" y="62" font-size="11" fill="#9a8589">commits, PRs, issues &amp; reviews</text>
 <text x="751" y="34" text-anchor="end" font-size="11" fill="#9a8589">current streak 6d · longest 6d · busiest day 8</text>
 <polygon points="108.9,124.0 751.4,495.0 666.6,544.0 24.0,173.0" fill="#2a1318" fill-opacity="0.55"/>
@@ -75,9 +75,9 @@
 <polygon points="680.6,513.8 690.8,519.6 690.8,528.9 680.6,523.0" fill="#310e16" fill-opacity="1"/>
 <polygon points="701.0,513.8 690.8,519.6 690.8,528.9 701.0,523.0" fill="#43131e" fill-opacity="1"/>
 <polygon points="690.8,507.9 701.0,513.8 690.8,519.6 680.6,513.8" fill="#5a1a28" fill-opacity="1"/>
-<polygon points="668.5,520.8 678.7,526.6 678.7,535.9 668.5,530.0" fill="#310e16" fill-opacity="1"/>
-<polygon points="688.9,520.8 678.7,526.6 678.7,535.9 688.9,530.0" fill="#43131e" fill-opacity="1"/>
-<polygon points="678.7,514.9 688.9,520.8 678.7,526.6 668.5,520.8" fill="#5a1a28" fill-opacity="1"/>
+<polygon points="668.5,515.5 678.7,521.4 678.7,535.9 668.5,530.0" fill="#310e16" fill-opacity="1"/>
+<polygon points="688.9,515.5 678.7,521.4 678.7,535.9 688.9,530.0" fill="#43131e" fill-opacity="1"/>
+<polygon points="678.7,509.6 688.9,515.5 678.7,521.4 668.5,515.5" fill="#5a1a28" fill-opacity="1"/>
 <text x="24.0" y="191.0" font-size="11" fill="#9a8589">Nov</text>
 <text x="84.6" y="226.0" font-size="11" fill="#9a8589">Dec</text>
 <text x="133.1" y="254.0" font-size="11" fill="#9a8589">Jan</text>
