@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="mailto:ritujain8638@gmail.com"><img src="https://img.shields.io/badge/EMAIL-722f37?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ritujain8638-source"><img src="https://img.shields.io/badge/GITHUB-722f37?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/samyak-jain-dev"><img src="https://img.shields.io/badge/GITHUB-722f37?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=ritujain8638-source&label=profile+views&color=722f37&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=samyak-jain-dev&label=profile+views&color=722f37&style=flat-square" alt="profile views" />
 </p>
 
 ## `~/` whoami
@@ -18,7 +18,7 @@
 Hi, I'm **Samyak Jain**.
 
 - First-year student exploring how technology works & building new things
-- Currently working on [LLM Pipeline Explorer](https://github.com/ritujain8638-source/llm-pipeline-explorer) and open-source contributions (Sugar Labs, Apache IoTDB)
+- Currently working on [LLM Pipeline Explorer](https://github.com/samyak-jain-dev/llm-pipeline-explorer) and open-source contributions (Sugar Labs, Apache IoTDB)
 - Learning **Python, JavaScript, and TypeScript**
 - Reach me at **ritujain8638@gmail.com**
 
@@ -41,7 +41,7 @@ One I rated myself (edit `config.json`). The other counts real language bytes ac
 
 <img src="assets/isocal.svg" alt="3D contribution calendar" />
 
-<img src="https://raw.githubusercontent.com/ritujain8638-source/ritujain8638-source/output/github-snake.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/samyak-jain-dev/samyak-jain-dev/output/github-snake.svg" alt="contribution snake" />
 
 ## `~/` the numbers
 
