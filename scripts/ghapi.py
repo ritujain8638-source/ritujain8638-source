@@ -4,7 +4,7 @@ import os
 import ssl
 import urllib.request
 
-USER = os.environ.get("GH_USER", "ritujain8638-source")
+USER = os.environ.get("GH_USER", "samyak-jain-dev")
 TOKEN = os.environ.get("GH_TOKEN", "")
 SSL_CTX = (ssl.create_default_context(cafile="/etc/ssl/cert.pem")
            if os.path.exists("/etc/ssl/cert.pem") else None)
