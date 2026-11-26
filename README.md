@@ -17,7 +17,7 @@
 
 Hi, I'm **Samyak Jain**.
 
-- First-year CS student · Open-source contributor (Sugar Labs, Apache IoTDB) · Building with Python, TypeScript & LLMs
+- First-year CS student at **Newton School of Technology** (India) · Open-source contributor (Sugar Labs, Apache IoTDB) · Building with Python, TypeScript & LLMs
 - Currently building [LLM Pipeline Explorer](https://github.com/samyak-jain-dev/llm-pipeline-explorer)
 - Learning **Python, JavaScript, and TypeScript**
 - Reach me at **ritujain8638@gmail.com**
