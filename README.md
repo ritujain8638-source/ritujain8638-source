@@ -18,7 +18,7 @@
 Hi, I'm **Samyak Jain**.
 
 - First-year student exploring how technology works & building new things
-- Currently working on [food with health](https://github.com/ritujain8638-source/New-beginning-)
+- Currently working on [LLM Pipeline Explorer](https://github.com/ritujain8638-source/llm-pipeline-explorer) and open-source contributions (Sugar Labs, Apache IoTDB)
 - Learning **Python, JavaScript, and TypeScript**
 - Reach me at **ritujain8638@gmail.com**
 
